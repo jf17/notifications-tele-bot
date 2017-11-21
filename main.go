@@ -18,3 +18,7 @@ func AddNewNotification() {
 func DeleteNotification() {
 	// TODO code 
  }
+ 
+func readFromFile(){
+	// TODO code 
+}
