@@ -6,12 +6,12 @@ import "fmt"
 
 	
 
-func GetListNotifications() {
+func GetListNotifications() string {
      // TODO code 
 }
 
 
-func AddNewNotification() {
+func AddNewNotification(str string) {
    // TODO code 
 }
 
